@@ -1,3 +1,3 @@
-myVar = "JavaScript is amazing!";
+myVar = "JavaScript is amazing";
 // Executing the code
 console.log(myVar);
